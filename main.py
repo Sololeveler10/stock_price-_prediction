@@ -19,7 +19,7 @@ st.markdown("Predict the future trends of any stock for the next 1 month using L
 
 
 stock_symbol = st.text_input("Enter the Stock Symbol (e.g., AAPL, MSFT, TSLA):", "AAPL")
-predict_button = st.button("Predict Future Trends")
+predict_button = st.button("Predict Future's Trends")
 
 
 
